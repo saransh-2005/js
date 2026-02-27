@@ -6,6 +6,6 @@ let accountState;
 console.log(accountId)
 
 accountEmail = "saransh17092005@gmail.com"
-accountPass = "saru*17"
+accountPass = "saru *17"
 accountCity = "Ghaziabad"
 console.table([accountId,accountEmail,accountPass,accountCity,accountState])
