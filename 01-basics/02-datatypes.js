@@ -20,7 +20,7 @@ let state;
 // boolean => true/false
 // null => standalone value
 // undefined =>   means value is not assigned yet
-// symbol => unique
+// symbol => unique 
 
 
 // object
